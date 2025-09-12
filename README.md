@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm Anthony Saah</h1>
 
 <h3 align="center">A frontend dev with backend experience</h3>
@@ -20,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepapisogram&show_icons=true&locale=en&layout=compact" alt="thepapisogram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thepapisogram&show_icons=true&locale=en" alt="thepapisogram" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thepapisogram&show_icons=true&locale=en&theme=dark" alt="thepapisogram" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepapisogram&" alt="thepapisogram" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepapisogram&theme=dark" alt="thepapisogram" /></p>
