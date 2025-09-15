@@ -1,7 +1,7 @@
-### 👋 Hi there i'm Vincent.
+### 👋 Hey, I'm Anthony.
 
-Aspiring SWE and Cybersecurity Enthusiast. 
-I am currently learning Solidity for Blockchain Development.
+Frontend Developer with Backend Experience.  
+I am currently learning React Native.
 
 
 [![wakatime](https://wakatime.com/badge/user/018b3273-6dfa-4b1e-b0de-240ecca9b5fa.svg)](https://wakatime.com/@018b3273-6dfa-4b1e-b0de-240ecca9b5fa)
